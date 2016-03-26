@@ -1,0 +1,12 @@
+{
+  "name": "node-clustering-tests",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Jeff Hall <jeffreyrhall@gmail.com> (https://github.com/jrhall)",
+  "license": "ISC",
+  "devDependencies": {}
+}
